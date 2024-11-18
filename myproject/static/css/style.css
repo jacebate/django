@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body{
+    display: grid;
+    color: green;
+    
+        background-image: url('https://images.unsplash.com/photo-1593642532973-d31b6557fa68');
+        background-size: cover; /* Ensures the image covers the entire background */
+        background-position: center; /* Centers the background image */
+        
+
+
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    text-decoration-line: underline;
+}
+p{
+color:red;
+
+}
+a{
+    color:yellow;
+}
